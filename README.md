@@ -2,13 +2,13 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4500&pause=1000&center=true&vCenter=true&lines=Welcome!!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=58&duration=4500&pause=1000&center=true&vCenter=true&lines=Welcome!!"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <strong style="font-size:32px;"> Hi there! I'm Pedro Freire 👋</strong>
+  <strong style="font-size:36px;"> Hi there! I'm Pedro Freire 👋</strong>
 </p>
 
 
@@ -21,7 +21,8 @@
   
   <div align="center">
 
-
+ 
+  <br> 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -39,12 +40,7 @@
 
   <br>  <br>  
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroDev-tech01&theme=holi)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroDev-tech01&theme=holi)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroDev-tech01&theme=holi)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroDev-tech01&theme=holi&utcOffset=-3)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroDev-tech01&theme=holi)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroDev-tech01&theme=blue-navy&hide_border=falso&short_numbers=&card_width=680&card_height=198)](https://git.io/streak-stats)
+
 
 </div>
 
@@ -52,7 +48,3 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=4682B4&reversal=false&textBg=false&descAlign=0&descAlignY=100&fontAlign=42&rotate=00&section=footer"/>
 
-
-<div align="center">
-  <img src="https://github.com/PedroDev-tech01/PedroDev-tech01/blob/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
